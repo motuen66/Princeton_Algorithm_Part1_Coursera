@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="assignment">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/algorithm_part_I/week2/stack_and_queue/assignment.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Algorithm Part I/algs4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Algorithm Part I/algs4.jar!/" />
+    </SOURCES>
+  </library>
+</component>
